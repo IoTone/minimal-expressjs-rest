@@ -1,0 +1,22 @@
+{
+  "name": "minimal-expressjs-rest",
+  "version": "1.0.0",
+  "description": "A minimal restful service thingy for 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "foo",
+    "bar",
+    "rest",
+    "nodejs"
+  ],
+  "author": "truedat101",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.7"
+  }
+}
