@@ -1,6 +1,6 @@
 {
   "name": "minimal-expressjs-rest",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimal restful service thingy for 2024",
   "main": "index.js",
   "scripts": {
